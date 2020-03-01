@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("!")
 	fmt.Println("aaa")
 	fmt.Println("bbb")
+	fmt.Println("ccc")
 }
