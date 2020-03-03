@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("bbb")
 	fmt.Println("ccc")
 	fmt.Println("ddd")
+	fmt.Println("fff")
 }
