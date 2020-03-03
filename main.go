@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("ddd")
 	fmt.Println("eee")
 	fmt.Println("fff")
+	fmt.Println("ggg")
 }
