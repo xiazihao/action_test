@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("world")
 	fmt.Println("aaa")
 	fmt.Println("bbb")
+	fmt.Println("ccc")
 }
