@@ -12,5 +12,4 @@ func main() {
 	fmt.Println("f")
 	fmt.Println("g")
 	fmt.Println("h")
-	fmt.Println("i")
 }
